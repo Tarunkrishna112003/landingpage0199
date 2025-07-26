@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0913cd4f.css",
+    "main.js": "/static/js/main.48ad9694.js",
+    "static/js/453.a1f524dd.chunk.js": "/static/js/453.a1f524dd.chunk.js",
+    "static/media/feature6.png": "/static/media/feature6.7a387dfe6426450cd97f.png",
+    "static/media/Demo3.mp3": "/static/media/Demo3.9ba577d28508195187ff.mp3",
+    "static/media/Demo1.mp3": "/static/media/Demo1.04794729579541ef2b7d.mp3",
+    "static/media/Price.png": "/static/media/Price.6d64f79eae0335945f64.png",
+    "static/media/Demo2.mp3": "/static/media/Demo2.11b054a2360e4d7a754d.mp3",
+    "static/media/feature5.png": "/static/media/feature5.1fc3fb5751da7f8796b8.png",
+    "static/media/feature3.png": "/static/media/feature3.2dce6024599150129afd.png",
+    "static/media/feature2.png": "/static/media/feature2.748d182550c3e1d583e4.png",
+    "static/media/Logo-30.png": "/static/media/Logo-30.7884d32fd925f994d6a9.png",
+    "static/media/logo2.png": "/static/media/logo2.462bb516d4469fa5dea4.png",
+    "static/media/logo9.png": "/static/media/logo9.5b42a9178fd68c4cf9f8.png",
+    "static/media/background.png": "/static/media/background.abf2a1f8cb2ebfb5cdfd.png",
+    "static/media/Justin.jpg": "/static/media/Justin.1d35b345a35eb26fbc0d.jpg",
+    "static/media/Alissa.jpg": "/static/media/Alissa.3bce3ab863af9cf8f6c3.jpg",
+    "static/media/GAlogo1.png": "/static/media/GAlogo1.059262de4608fac72ccb.png",
+    "static/media/feature1.png": "/static/media/feature1.f8394c23e67a731baf88.png",
+    "static/media/art1.svg": "/static/media/art1.a677af7f0a584669fca34340c6ff0830.svg",
+    "static/media/background1.png": "/static/media/background1.1bf7ecdbbbee7c373585.png",
+    "static/media/feature4.png": "/static/media/feature4.83eae59ae32a86050ce0.png",
+    "static/media/Alex.jpg": "/static/media/Alex.0c54255b97b730ccdbe2.jpg",
+    "static/media/Hero.png": "/static/media/Hero.f0cdc202a53183afa3c4.png",
+    "static/media/logo6.png": "/static/media/logo6.9ccbd5489441da8aca5b.png",
+    "static/media/Posterchild.jpg": "/static/media/Posterchild.34bcda707df456688b5a.jpg",
+    "index.html": "/index.html",
+    "main.0913cd4f.css.map": "/static/css/main.0913cd4f.css.map",
+    "main.48ad9694.js.map": "/static/js/main.48ad9694.js.map",
+    "453.a1f524dd.chunk.js.map": "/static/js/453.a1f524dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0913cd4f.css",
+    "static/js/main.48ad9694.js"
+  ]
+}
